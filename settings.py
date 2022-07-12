@@ -8,7 +8,7 @@ level_map = [
 '                                                ', #Row 6
 '                                                ', #Row 7
 '        X  XX                   X  XX           ', #Row 8
-'      XXX  XXXX               XXX  XXXX         ', #Row 9
+'  P   XXX  XXXX               XXX  XXXX         ', #Row 9
 'XXXXXXXXX  XXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXX'] #Row 10
 #012345678911111111112222
 #          01234567890123
